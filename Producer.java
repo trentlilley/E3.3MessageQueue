@@ -1,7 +1,7 @@
 import java.util.concurrent.BlockingQueue;
 
 public class Producer implements Runnable {
-  private BlockingQueue<Message> queue;
+  private BlockingQueue<Message> queue = null;
   private boolean running = true;
   private int id;
 
