@@ -1,2 +1,2 @@
 # Objective
-- Make the consumer produce pattern multi-threaded and resolve the bugs causing the program to deadlock.
+- Make this consumer producer pattern multi-threaded and resolve the bugs causing the program to deadlock.
